@@ -1,6 +1,6 @@
 {
 "update": "Yes",
-"new_version": "1.0.0",
+"new_version": "1.0.1",
 "apk_file_url": "https://raw.githubusercontent.com/AchaoMarver/marver-diary/master/Java/fgShop-V1.0.0.apk",
 "update_log": "1、商家地图展示。\r\n2、银行卡添加功能修复。",
 "target_size": "3M",
